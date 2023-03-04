@@ -24,3 +24,4 @@ Hello there! I am a beginner front-end developer with experience in creating web
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/PerchikKirill" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://vexuslabs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" /></a></p>
+
