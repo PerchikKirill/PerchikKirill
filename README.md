@@ -1,5 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-### My name is Kirill
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)   My name is Kirill
 ==============================================================================================================================
 
 Hello there! I am a beginner front-end developer with experience in creating web pages using HTML, CSS, and JavaScript. I am passionate about creating interactive and engaging user interfaces and constantly working to improve my skills and knowledge in this field. My skills include React JS, as well as Git and the basics of web design. You can find some of my projects on my profile, where I strive to create clean, efficient, and attractive code that meets the requirements of users and clients.
