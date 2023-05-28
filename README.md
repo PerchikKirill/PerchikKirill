@@ -3,6 +3,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Hello there! I am a beginner front-end developer with experience in creating web pages using HTML, CSS, and JavaScript. I am passionate about creating interactive and engaging user interfaces and constantly working to improve my skills and knowledge in this field. My skills include React JS, as well as Git and the basics of web design.
 
+### Level
+
+<img align='left' width=100% src="https://github-readme-stats.vercel.app/api?username=PerchikKirill&count_private=true&show_icons=true&include_all_commits=true;&theme=omni" />
+
 ### Skills
 
 
